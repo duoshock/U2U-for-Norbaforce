@@ -1,0 +1,48 @@
+08-01 01:14:58 archive_project.action_archive_project 108:Plugin executed on: 'win32'
+08-01 01:14:58 archive_project.action_archive_project 109:Plugin executed with python version: '2.7.15 (default, Oct 11 2018, 12:09:51)  [GCC 8.2.0 64 bit (AMD64)]'
+08-01 01:14:58 archive_project.action_archive_project 110:KiCad build version: Unknown
+08-01 01:14:58 archive_project.action_archive_project 111:Archive plugin version: 48 started
+08-01 01:15:02 archive_project.action_archive_project 164:Starting archiving schematics and documentation files
+08-01 01:15:02 archive_project.archive_project 199:Starting to archive symbols
+08-01 01:15:02 archive_project.archive_project 206:Pcb filename:M:\Miscellaneous\Keyboard\Realforce 91UDK-G\PCB\Project\RF_R1_USB2USB_SPIPin_v1 - Collect3\RF_R1_USB2USB_SPIPin_v1.kicad_pcb
+08-01 01:15:02 archive_project.archive_project 218:Kicad config path: C:\Users\X6950\AppData\Roaming\kicad
+08-01 01:15:02 archive_project.archive_project 290:Entering archive library in sym-lib-table
+08-01 01:15:02 archive_project.archive_project 380:found all subsheets
+08-01 01:15:02 archive_project.archive_project 389:Archiving file: M:\Miscellaneous\Keyboard\Realforce 91UDK-G\PCB\Project\RF_R1_USB2USB_SPIPin_v1 - Collect3\RF_R1_USB2USB_SPIPin_v1.sch
+08-01 01:15:03 archive_project.action_archive_project 175:Action plugin exiting due to error in schematics archiving part
+08-01 01:15:03 archive_project.archive_project 139:Starting to archive worksheets
+08-01 01:15:03 archive_project.archive_project 154:Found worksheet entry:  at line: 16
+08-01 01:15:03 archive_project.archive_project 156:Full worksheet path: M:\Miscellaneous\Keyboard\Realforce 91UDK-G\PCB\Project\RF_R1_USB2USB_SPIPin_v1 - Collect3
+08-01 01:15:03 archive_project.archive_project 159:Worksheet file does not exist
+08-01 01:15:03 archive_project.archive_project 154:Found worksheet entry:  at line: 26
+08-01 01:15:03 archive_project.archive_project 156:Full worksheet path: M:\Miscellaneous\Keyboard\Realforce 91UDK-G\PCB\Project\RF_R1_USB2USB_SPIPin_v1 - Collect3
+08-01 01:15:03 archive_project.archive_project 159:Worksheet file does not exist
+08-01 01:15:04 archive_project.action_archive_project 215:Starting 3D model archiving
+08-01 01:15:04 archive_project.archive_project 552:Starting to archive 3D models
+08-01 01:15:04 archive_project.archive_project 554:All defined environment variables: {'TMP': 'C:\\Users\\X6950\\AppData\\Local\\Temp', 'COMPUTERNAME': 'X6950', 'USERDOMAIN': 'X6950', 'INTEL_DEV_REDIST': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\', 'PSMODULEPATH': 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules;C:\\Program Files\\Intel\\;C:\\Program Files\\Intel\\Wired Networking\\', 'KICAD_TEMPLATE_DIR': 'C:\\Program Files\\KiCad\\share\\kicad\\template', 'COMMONPROGRAMFILES': 'C:\\Program Files\\Common Files', 'PROCESSOR_IDENTIFIER': 'Intel64 Family 6 Model 79 Stepping 1, GenuineIntel', 'VBOX_MSI_INSTALL_PATH': 'C:\\Program Files\\Oracle\\VirtualBox\\', 'PROGRAMFILES': 'C:\\Program Files', 'PROCESSOR_REVISION': '4f01', 'SYSTEMROOT': 'C:\\Windows', 'PATH': 'C:\\Program Files\\KiCad\\bin;C:\\Program Files\\KiCad\\bin;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\Oculus\\Support\\oculus-runtime;C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64_win\\compiler;C:\\Program Files\\Broadcom\\Broadcom 802.11 Network Adapter;C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Program Files\\PuTTY\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit\\;C:\\Users\\X6950\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files (x86)\\Atmel\\Flip 3.4.7\\bin;C:\\Users\\X6950\\AppData\\Local\\GitHubDesktop\\bin;C:\\MinGW\\msys\\1.0\\bin;C:\\MinGW\\bin;C:\\Program Files\\Git\\cmd;C:\\Users\\X6950\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files (x86)\\Atmel\\Flip 3.4.7\\bin;C:\\Users\\X6950\\AppData\\Local\\GitHubDesktop\\bin;C:\\Program Files (x86)\\FAHClient', 'SW_SIM_TEMP': 'C:\\ProgramData\\SOLIDWORKS\\SW_net_sim_temp\\', 'MIC_LD_LIBRARY_PATH': 'C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\compiler\\lib\\intel64_win_mic', 'KICAD_SYMBOL_DIR': 'C:\\Program Files\\KiCad\\share\\kicad\\library', 'DRIVERDATA': 'C:\\Windows\\System32\\Drivers\\DriverData', 'KIPRJMOD': 'M:\\Miscellaneous\\Keyboard\\Realforce 91UDK-G\\PCB\\Project\\RF_R1_USB2USB_SPIPin_v1 - Collect3', 'KISYS3DMOD': 'C:\\Program Files\\KiCad\\share\\kicad\\modules\\packages3d\\', 'TEMP': 'C:\\Users\\X6950\\AppData\\Local\\Temp', 'COMMONPROGRAMFILES(X86)': 'C:\\Program Files (x86)\\Common Files', 'PROCESSOR_ARCHITECTURE': 'AMD64', 'SW_SIM_HYDRA': 'C:\\Program Files\\Common Files\\SolidWorks Shared\\Simulation Worker Agent\\', 'ALLUSERSPROFILE': 'C:\\ProgramData', 'LOCALAPPDATA': 'C:\\Users\\X6950\\AppData\\Local', 'FPS_BROWSER_USER_PROFILE_STRING': 'Default', 'HOMEPATH': '\\Users\\X6950', 'USERDOMAIN_ROAMINGPROFILE': 'X6950', 'PROGRAMW6432': 'C:\\Program Files', 'USERNAME': 'X6950', 'LOGONSERVER': '\\\\X6950', 'SESSIONNAME': 'Console', 'PROGRAMDATA': 'C:\\ProgramData', 'SW_SIM_MPIT': 'INTELMPI', 'ONEDRIVE': 'C:\\Users\\X6950\\OneDrive', 'FPS_BROWSER_APP_PROFILE_STRING': 'Internet Explorer', 'TEST': 'test', 'KICAD_USER_TEMPLATE_DIR': 'C:\\Users\\X6950\\Documents\\kicad\\template', 'PUBLIC': 'C:\\Users\\Public', 'PATHEXT': '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC', 'OCULUSBASE': 'C:\\Program Files\\Oculus\\', 'KISYSMOD': 'C:\\Program Files\\KiCad\\share\\kicad\\modules', 'WINDIR': 'C:\\Windows', 'KIGITHUB': 'https://github.com/KiCad', 'HOMEDRIVE': 'C:', 'SYSTEMDRIVE': 'C:', 'APPDATA': 'C:\\Users\\X6950\\AppData\\Roaming', 'COMSPEC': 'C:\\Windows\\system32\\cmd.exe', 'NUMBER_OF_PROCESSORS': '20', 'ADSK_CLM_WPAD_PROXY_CHECK': 'FALSE', 'PROCESSOR_LEVEL': '6', 'RG_GPU_FRAMEWORK_ENGINE_RESOURCEDIR': 'C:\\Program Files\\Red Giant\\RGFX', 'PROGRAMFILES(X86)': 'C:\\Program Files (x86)', 'COMMONPROGRAMW6432': 'C:\\Program Files\\Common Files', 'OS': 'Windows_NT', 'SOLIDWORKS_SHARED': 'C:\\Program Files\\Common Files\\SOLIDWORKS Shared\\2019', 'USERPROFILE': 'C:\\Users\\X6950'}
+08-01 01:15:04 archive_project.archive_project 579:Getting 3D models for footprint of: P1
+08-01 01:15:04 archive_project.archive_project 579:Getting 3D models for footprint of: J1
+08-01 01:15:04 archive_project.archive_project 590:Trying to copy: ${KISYS3DMOD}/Connector_USB.3dshapes/USB_Mini-B_Lumberg_2486_01_Horizontal.wrl
+08-01 01:15:04 archive_project.archive_project 647:Remapping: ${KISYS3DMOD}/Connector_USB.3dshapes/USB_Mini-B_Lumberg_2486_01_Horizontal.wrl
+08-01 01:15:04 archive_project.archive_project 579:Getting 3D models for footprint of: J2
+08-01 01:15:04 archive_project.archive_project 590:Trying to copy: ${KISYS3DMOD}/Connector_JST.3dshapes/JST_EH_S4B-EH_1x04_P2.50mm_Horizontal.wrl
+08-01 01:15:04 archive_project.archive_project 647:Remapping: ${KISYS3DMOD}/Connector_JST.3dshapes/JST_EH_S4B-EH_1x04_P2.50mm_Horizontal.wrl
+08-01 01:15:04 archive_project.archive_project 579:Getting 3D models for footprint of: J3
+08-01 01:15:04 archive_project.archive_project 579:Getting 3D models for footprint of: J4
+08-01 01:15:04 archive_project.archive_project 579:Getting 3D models for footprint of: SW1
+08-01 01:15:04 archive_project.archive_project 590:Trying to copy: ${KISYS3DMOD}/Button_Switch_SMD.3dshapes/SW_SPST_B3U-1000P.wrl
+08-01 01:15:04 archive_project.archive_project 647:Remapping: ${KISYS3DMOD}/Button_Switch_SMD.3dshapes/SW_SPST_B3U-1000P.wrl
+08-01 01:15:04 archive_project.archive_project 579:Getting 3D models for footprint of: U1
+08-01 01:15:04 archive_project.archive_project 590:Trying to copy: ${KISYS3DMOD}/Package_QFP.3dshapes/LQFP-44_10x10mm_P0.8mm.wrl
+08-01 01:15:04 archive_project.archive_project 647:Remapping: ${KISYS3DMOD}/Package_QFP.3dshapes/LQFP-44_10x10mm_P0.8mm.wrl
+08-01 01:15:04 archive_project.archive_project 579:Getting 3D models for footprint of: U2
+08-01 01:15:04 archive_project.archive_project 590:Trying to copy: ${KISYS3DMOD}/Package_QFP.3dshapes/LQFP-32_5x5mm_P0.5mm.wrl
+08-01 01:15:04 archive_project.archive_project 647:Remapping: ${KISYS3DMOD}/Package_QFP.3dshapes/LQFP-32_5x5mm_P0.5mm.wrl
+08-01 01:15:04 archive_project.archive_project 579:Getting 3D models for footprint of: U3
+08-01 01:15:04 archive_project.archive_project 590:Trying to copy: ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.wrl
+08-01 01:15:04 archive_project.archive_project 647:Remapping: ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.wrl
+08-01 01:15:04 archive_project.archive_project 579:Getting 3D models for footprint of: X1
+08-01 01:15:04 archive_project.archive_project 590:Trying to copy: Crystals.3dshapes/crystal_FA238-TSX3225.wrl
+08-01 01:15:04 archive_project.archive_project 614:Ambiguios path for the model: Crystals.3dshapes/crystal_FA238-TSX3225.wrl
+08-01 01:15:04 archive_project.archive_project 624:Can not find model defined with enviroment variable:
+Crystals.3dshapes/crystal_FA238-TSX3225.wrl
