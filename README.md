@@ -1,4 +1,4 @@
-#USB to UUSB  for Norbaforce
+#USB to USB for Norbaforce
 
 This U2U is based on Hasu USB to USB with the rearranged component layout to fit Norbaforce housing. It's only compatible with Realforce R1 keyboard. However, It's easy to adapt it for Realforce R2 with the KiCad project.
 
